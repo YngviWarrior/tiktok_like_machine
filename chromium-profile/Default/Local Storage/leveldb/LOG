@@ -1,0 +1,14 @@
+2024/12/18-12:42:46.369 5794 Reusing MANIFEST C:\Users\immor\OneDrive\Documentos\Go Programs\tiktok_like_machine\chromium-profile\Default\Local Storage\leveldb/MANIFEST-000001
+2024/12/18-12:42:46.373 5794 Recovering log #12
+2024/12/18-12:42:46.376 5794 Reusing old log C:\Users\immor\OneDrive\Documentos\Go Programs\tiktok_like_machine\chromium-profile\Default\Local Storage\leveldb/000012.log 
+2024/12/18-12:50:52.143 43bc Level-0 table #16: started
+2024/12/18-12:50:52.147 43bc Level-0 table #16: 37097 bytes OK
+2024/12/18-12:50:52.149 43bc Delete type=0 #12
+2024/12/18-12:50:52.150 5794 Compacting 4@0 + 0@1 files
+2024/12/18-12:50:52.154 5794 Generated table #17@0: 31 keys, 71440 bytes
+2024/12/18-12:50:52.154 5794 Compacted 4@0 + 0@1 files => 71440 bytes
+2024/12/18-12:50:52.156 5794 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/12/18-12:50:52.156 5794 Delete type=2 #7
+2024/12/18-12:50:52.156 5794 Delete type=2 #11
+2024/12/18-12:50:52.157 5794 Delete type=2 #13
+2024/12/18-12:50:52.157 5794 Delete type=2 #16
